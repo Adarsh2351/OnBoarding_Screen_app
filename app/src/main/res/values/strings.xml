@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="skip_intro">Skip intro</string>
+    <string name="about_us">About Us</string>
+    <string name="about_us_desc">fsdkjhjfksnmnds gysdgswd gdf sbdjbd dnhjdkdwj hdshdj hjshd dghdg hdbshd hsbdbj gjslk dsdjk</string>
+    <string name="our_mission">Our Mission</string>
+    <string name="our_mission_desc">fsdkjhjfksnmnds gysdgswd gdf sbdjbd dnhjdkdwj hdshdj hjshd dghdg hdbshd hsbdbj gjslk dsdjk</string>
+    <string name="our_vision">Our Vision</string>
+    <string name="our_vision_desc">fsdkjhjfksnmnds gysdgswd gdf sbdjbd dnhjdkdwj hdshdj hjshd dghdg hdbshd hsbdbj gjslk dsdjk</string>
+    <string name="preference_file_name">Home</string>
+</resources>
